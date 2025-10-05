@@ -57,10 +57,9 @@
 
 *All your scripts must be executable. To make your file executable, use the chmod command: chmod u+x file*
 
+# Tasks:
 ### 0. Where am I?
 Write a script that prints the absolute path name of the current working directory.
-- GitHub repository: alx-system_engineering-devops
-- Directory: 0x00-shell_basics
 - File: `0-current_working_directory`
 
 ### 1. What’s in there?
