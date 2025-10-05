@@ -86,20 +86,20 @@ Display current directory contents.
 - File: `5-listfilesdigitonly`
 
 ### 6. Welcome
-Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+Create a script that creates a directory named `my_first_directory` in the `/tmp/` directory.
 - File: `6-firstdirectory`
 
 ### 7. Betty in my first directory
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 - File: `7-movethatfile`
 
 ### 8. Bye bye Betty
-Delete the file betty.
-The file betty is in /tmp/my_first_directory
+Delete the file `betty`.
+The file `betty` is in `/tmp/my_first_directory`
 - File: `8-firstdelete`
 
 ### 9. Bye bye My first directory
-Delete the directory my_first_directory that is in the /tmp directory.
+Delete the directory `my_first_directory` that is in the `/tmp` directory.
 - File: `9-firstdirdeletion`
 
 ### 10. Back to the future
@@ -107,15 +107,15 @@ Write a script that changes the working directory to the previous one.
 - File: `10-back`
 
 ### 11. Lists
-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the `/boot` directory (in this order), in long format.
 - File: `11-lists`
 
 ### 12. File type
-Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+Write a script that prints the type of the file named `iamafile`. The file iamafile will be in the `/tmp` directory when we will run your script.
 - File: `12-file_type`
 
 ### 13. We are symbols, and inhabit symbols
-Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+Create a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link should be created in the current working directory.
 - File: `13-symbolic_link`
 
 ### 14. Copy HTML files
@@ -124,8 +124,8 @@ You can consider that all HTML files have the extension .html
 - File: `14-copy_html`
 
 ### 15. Let’s move
-Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
-You can assume that the directory /tmp/u will exist when we will run your script
+Create a script that moves all files beginning with an uppercase letter to the directory `/tmp/u`.
+You can assume that the directory `/tmp/u` will exist when we will run your script
 - File: `100-lets_move`
 
 ### 16. Clean Emacs
@@ -133,7 +133,7 @@ Create a script that deletes all files in the current working directory that end
 - File: `101-clean_emacs`
 
 ### 17. Tree
-Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Create a script that creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory.
 You are only allowed to use two spaces (and lines) in your script, not more.
 - File: `102-tree`
 
