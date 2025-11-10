@@ -1,2 +1,2 @@
-DevOps README file
-editing soon
+# DevOps README
+This repository addresses core concepts relating to DevOps
