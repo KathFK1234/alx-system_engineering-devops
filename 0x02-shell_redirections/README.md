@@ -1,4 +1,4 @@
-# Learning Objectives*
+# Learning Objectives
 - At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## *1. Shell, I/O Redirection*
@@ -46,11 +46,12 @@ Display the first 10 lines of `/etc/passwd`
 - File: `5-firstlines`
 
 ### 6. Line #2
-Write a script that displays the third line of the file iacta. The file iacta will be in the working directory. You’re not allowed to use sed
+Write a script that displays the third line of the file `iacta`. The file `iacta` will be in the working directory. 
+- You’re not allowed to use `sed`
 - File: `6-thirdline`
 
 ### 7. It is a good file that cuts iron without making a noise
-Write a shell script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line.
+Write a shell script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line.
 - File: `7-file`
 
 ### 8. Save current state of directory
@@ -142,8 +143,9 @@ Write a script that lists all the files with a .gif extension in the current dir
 - File: `101-gifs`
 
 ### 25. Acrostic
-Create a script that decodes acrostics that use the first letter of each line. The ‘decoded’ message has to end with a new line. You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`. 
-- ( An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval.
+Create a script that decodes acrostics that use the first letter of each line. - The ‘decoded’ message has to end with a new line. 
+- You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`. 
+- An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis. As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval.
 - File: `102-acrostic`
 
 ### 26. The biggest fan
